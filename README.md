@@ -1,6 +1,8 @@
 # Assignment1-GAMELB-Term
 GA Mobile Development Course Assignment 1 Using Term
 
+For detailed information see "steps done for tasks terminal.txt"
+
 1)New repo created and cloned locally
 
 2)New Xcode project added to repo
