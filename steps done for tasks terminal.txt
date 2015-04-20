@@ -1,0 +1,50 @@
+Terminal Approach where possible
+
+Assignment 1: 
+ 1. Create a new repository, clone it to your local machine
+
+Interpretation of question:
+Request is to create remote repo (not local first)
+
+Steps performed:
+	a)Use website github.com to create repo, repository name and description given
+	
+	create folder “term”
+ 	open terminal 
+	cd /users/Heathglover/Desktop/term
+	git clone https://github.com/heathg/Assignment1-GAMELB-Term.git
+		
+
+	
+ 2. Open Xcode, create a new Project, then and add the project files to this repository.
+
+Steps performed:
+	a)Open Xcode
+	b)Create new project, save in the same folder as the .git folder 
+           (/users/Heathglover/Desktop/term/Assignment1-GAMELB-Term) folder
+
+ 3. Then add the following text file to the repository answering the questions within.
+
+Steps performed:
+clicked on text file link in slack and saved locally to the repo folder then answered 
+questions
+
+ 4. Commit and push files to the repository.
+Steps performed:
+in terminal
+cd /Assignment1-GAMELB-Term
+git add —a 
+git commit -m “commit related text went here ” 
+git push https://github.com/heathg/Assignment1-GAMELB-Term.git
+
+
+*Validation step (not requested but wanted to do)
+then further verification by going into the repo on the GitHub.com website to see the
+Xcode files and text file was available.
+
+Not 100% confident on the commands used are correct!
+
+I done the task once after a number of trip ups and completed the tasks requested, I had
+no issues doing the assignment but felt I still had no comprehension of what actually 
+happened or how i got there, I decided to also do the task again noting down the steps
+for both a GUI (lazy/efficient at times approach) and also a more terminal approach
