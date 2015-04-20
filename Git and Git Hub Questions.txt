@@ -5,6 +5,8 @@ Git and Git Hub Questions:
 
 git pull 
 
+question using git pull —rebase
+
 2. What is the command for seeing the repository history via the command line?
 
 git log
