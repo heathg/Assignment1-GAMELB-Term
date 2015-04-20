@@ -25,15 +25,19 @@ stops git checking in specified files and or directories to github
 
 6. Why is a .gitignore file useful?
 
-git ignore is useful to not publish files or folders that are not relevant to anyone else or not required to be uploaded to the remote repo
+git ignore is useful to not publish files or folders that are not relevant to anyone else or not required to be uploaded to the
+remote repo
 
 7. What is "Open Source" software?
 
-Open Source software is software where the source code is freely available for use or modification as users or developers require. “Human Knowledge belongs to the world” 
+Open Source software is software where the source code is freely available for use or modification as users or developers require. 
+“Human Knowledge belongs to the world” 
 
 8. How can "Open Source" software help me with my final project?
 
-Using open source software can be useful so instead of re-writing or building something from scratch that already exists, using a source such as git hub can locate software that already performs a certain function. 
+Using open source software can be useful so instead of re-writing or building something from scratch that already exists, 
+using a source such as git hub can locate software that already performs a certain function. 
 
-Even if the absolute function is not 100% to which is required finding base level software which can then be modified or adapted to suit the project is viable. This will in turn significantly reduce the time to complete the final project.
+Even if the absolute function is not 100% to which is required finding base level software which can then be modified or 
+adapted to suit the project is viable. This will in turn significantly reduce the time to complete the final project.
 
