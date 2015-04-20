@@ -47,4 +47,4 @@ Not 100% confident on the commands used are correct!
 I done the task once after a number of trip ups and completed the tasks requested, I had
 no issues doing the assignment but felt I still had no comprehension of what actually 
 happened or how i got there, I decided to also do the task again noting down the steps
-for both a GUI (lazy/efficient at times approach) and also a more terminal approach
+for both a GUI (lazy/efficient at times approach) and also a more terminal approach.
