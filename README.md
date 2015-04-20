@@ -2,8 +2,11 @@
 GA Mobile Development Course Assignment 1 Using Term
 
 1)New repo created and cloned locally
+
 2)New Xcode project added to repo
+
 3)Questions txt file updated with answers and put into repo
+
 4)Files commited and push to repo
 
 Tasks completed to best of knowledge and current ability
